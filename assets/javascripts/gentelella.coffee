@@ -29,7 +29,7 @@
 #= require switchery
 #= require starrr
 #= require bootstrap-wysiwyg
-#= require select2-rails
+#= require select2
 #= require parsley
 #= require autosize
 #= require data_tables
